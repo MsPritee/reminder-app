@@ -18,10 +18,7 @@ function App() {
             <li>
               <Link to="/">Login</Link>
             </li>
-            <li>
-              <Link to="/protected">Protected</Link>
-            </li>
-
+            
           </ul>
         </nav>
         <Switch>
